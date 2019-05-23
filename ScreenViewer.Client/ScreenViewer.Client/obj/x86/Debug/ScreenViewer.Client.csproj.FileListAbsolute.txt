@@ -1,0 +1,216 @@
+C:\Projects 2010\Forum_C#\ScreenViewer.Client\ScreenViewer.Client\bin\Debug\ScreenViewer.Client.exe.config
+C:\Projects 2010\Forum_C#\ScreenViewer.Client\ScreenViewer.Client\bin\Debug\ScreenViewer.Client.exe
+C:\Projects 2010\Forum_C#\ScreenViewer.Client\ScreenViewer.Client\bin\Debug\ScreenViewer.Client.pdb
+C:\Projects 2010\Forum_C#\ScreenViewer.Client\ScreenViewer.Client\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Projects 2010\Forum_C#\ScreenViewer.Client\ScreenViewer.Client\obj\x86\Debug\ScreenViewer.Client.Form1.resources
+C:\Projects 2010\Forum_C#\ScreenViewer.Client\ScreenViewer.Client\obj\x86\Debug\ScreenViewer.Client.Properties.Resources.resources
+C:\Projects 2010\Forum_C#\ScreenViewer.Client\ScreenViewer.Client\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Projects 2010\Forum_C#\ScreenViewer.Client\ScreenViewer.Client\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Projects 2010\Forum_C#\ScreenViewer.Client\ScreenViewer.Client\obj\x86\Debug\ScreenViewer.Client.exe
+C:\Projects 2010\Forum_C#\ScreenViewer.Client\ScreenViewer.Client\obj\x86\Debug\ScreenViewer.Client.pdb
+C:\Users\Света\Desktop\ScreenViewer.Client\ScreenViewer.Client\bin\Debug\ScreenViewer.Client.exe.config
+C:\Users\Света\Desktop\ScreenViewer.Client\ScreenViewer.Client\bin\Debug\ScreenViewer.Client.exe
+C:\Users\Света\Desktop\ScreenViewer.Client\ScreenViewer.Client\bin\Debug\ScreenViewer.Client.pdb
+C:\Users\Света\Desktop\ScreenViewer.Client\ScreenViewer.Client\obj\x86\Debug\ScreenViewer.Client.Form1.resources
+C:\Users\Света\Desktop\ScreenViewer.Client\ScreenViewer.Client\obj\x86\Debug\ScreenViewer.Client.Properties.Resources.resources
+C:\Users\Света\Desktop\ScreenViewer.Client\ScreenViewer.Client\obj\x86\Debug\ScreenViewer.Client.csproj.GenerateResource.Cache
+C:\Users\Света\Desktop\ScreenViewer.Client\ScreenViewer.Client\obj\x86\Debug\ScreenViewer.Client.csproj.CoreCompileInputs.cache
+C:\Users\Света\Desktop\ScreenViewer.Client\ScreenViewer.Client\obj\x86\Debug\ScreenViewer.Client.exe
+C:\Users\Света\Desktop\ScreenViewer.Client\ScreenViewer.Client\obj\x86\Debug\ScreenViewer.Client.pdb
+C:\Users\Света\Desktop\ScreenViewer.Client\ScreenViewer.Client\obj\x86\Debug\ScreenViewer.Client.csprojResolveAssemblyReference.cache
+C:\Users\Nochn\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Desktop\ScreenViewer.Client\ScreenViewer.Client\bin\Debug\ScreenViewer.Client.exe.config
+C:\Users\Nochn\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Desktop\ScreenViewer.Client\ScreenViewer.Client\bin\Debug\ScreenViewer.Client.exe
+C:\Users\Nochn\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Desktop\ScreenViewer.Client\ScreenViewer.Client\bin\Debug\ScreenViewer.Client.pdb
+C:\Users\Nochn\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Desktop\ScreenViewer.Client\ScreenViewer.Client\obj\x86\Debug\ScreenViewer.Client.csprojAssemblyReference.cache
+C:\Users\Nochn\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Desktop\ScreenViewer.Client\ScreenViewer.Client\obj\x86\Debug\ScreenViewer.Client.Form1.resources
+C:\Users\Nochn\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Desktop\ScreenViewer.Client\ScreenViewer.Client\obj\x86\Debug\ScreenViewer.Client.Properties.Resources.resources
+C:\Users\Nochn\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Desktop\ScreenViewer.Client\ScreenViewer.Client\obj\x86\Debug\ScreenViewer.Client.csproj.GenerateResource.cache
+C:\Users\Nochn\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Desktop\ScreenViewer.Client\ScreenViewer.Client\obj\x86\Debug\ScreenViewer.Client.csproj.CoreCompileInputs.cache
+C:\Users\Nochn\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Desktop\ScreenViewer.Client\ScreenViewer.Client\obj\x86\Debug\ScreenViewer.Client.exe
+C:\Users\Nochn\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Desktop\ScreenViewer.Client\ScreenViewer.Client\obj\x86\Debug\ScreenViewer.Client.pdb
+C:\Users\Nochn\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Desktop\ScreenViewer.Client\ScreenViewer.Client\bin\Debug\CommonLibrary.dll
+C:\Users\Nochn\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Desktop\ScreenViewer.Client\ScreenViewer.Client\bin\Debug\CommonLibrary.pdb
+C:\Users\Nochn\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Desktop\ScreenViewer.Client\ScreenViewer.Client\obj\x86\Debug\ScreenViewer.Client.csproj.CopyComplete
+C:\Users\Света\Desktop\Desktop_new\ScreenViewer.Client\ScreenViewer.Client\bin\Debug\ScreenViewer.Client.exe.config
+C:\Users\Света\Desktop\Desktop_new\ScreenViewer.Client\ScreenViewer.Client\bin\Debug\ScreenViewer.Client.exe
+C:\Users\Света\Desktop\Desktop_new\ScreenViewer.Client\ScreenViewer.Client\bin\Debug\ScreenViewer.Client.pdb
+C:\Users\Света\Desktop\Desktop_new\ScreenViewer.Client\ScreenViewer.Client\bin\Debug\CommonLibrary.dll
+C:\Users\Света\Desktop\Desktop_new\ScreenViewer.Client\ScreenViewer.Client\bin\Debug\CommonLibrary.pdb
+C:\Users\Света\Desktop\Desktop_new\ScreenViewer.Client\ScreenViewer.Client\obj\x86\Debug\ScreenViewer.Client.csprojResolveAssemblyReference.cache
+C:\Users\Света\Desktop\Desktop_new\ScreenViewer.Client\ScreenViewer.Client\obj\x86\Debug\ScreenViewer.Client.Form1.resources
+C:\Users\Света\Desktop\Desktop_new\ScreenViewer.Client\ScreenViewer.Client\obj\x86\Debug\ScreenViewer.Client.Properties.Resources.resources
+C:\Users\Света\Desktop\Desktop_new\ScreenViewer.Client\ScreenViewer.Client\obj\x86\Debug\ScreenViewer.Client.csproj.GenerateResource.Cache
+C:\Users\Света\Desktop\Desktop_new\ScreenViewer.Client\ScreenViewer.Client\obj\x86\Debug\ScreenViewer.Client.csproj.CoreCompileInputs.cache
+C:\Users\Света\Desktop\Desktop_new\ScreenViewer.Client\ScreenViewer.Client\obj\x86\Debug\ScreenViewer.Client.exe
+C:\Users\Света\Desktop\Desktop_new\ScreenViewer.Client\ScreenViewer.Client\obj\x86\Debug\ScreenViewer.Client.pdb
+C:\Users\Nochn\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Desktop_new\Desktop_new\ScreenViewer.Client\ScreenViewer.Client\bin\Debug\ScreenViewer.Client.exe.config
+C:\Users\Nochn\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Desktop_new\Desktop_new\ScreenViewer.Client\ScreenViewer.Client\bin\Debug\ScreenViewer.Client.exe
+C:\Users\Nochn\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Desktop_new\Desktop_new\ScreenViewer.Client\ScreenViewer.Client\bin\Debug\ScreenViewer.Client.pdb
+C:\Users\Nochn\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Desktop_new\Desktop_new\ScreenViewer.Client\ScreenViewer.Client\bin\Debug\CommonLibrary.dll
+C:\Users\Nochn\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Desktop_new\Desktop_new\ScreenViewer.Client\ScreenViewer.Client\bin\Debug\CommonLibrary.pdb
+C:\Users\Nochn\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Desktop_new\Desktop_new\ScreenViewer.Client\ScreenViewer.Client\obj\x86\Debug\ScreenViewer.Client.csprojAssemblyReference.cache
+C:\Users\Nochn\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Desktop_new\Desktop_new\ScreenViewer.Client\ScreenViewer.Client\obj\x86\Debug\ScreenViewer.Client.Form1.resources
+C:\Users\Nochn\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Desktop_new\Desktop_new\ScreenViewer.Client\ScreenViewer.Client\obj\x86\Debug\ScreenViewer.Client.Properties.Resources.resources
+C:\Users\Nochn\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Desktop_new\Desktop_new\ScreenViewer.Client\ScreenViewer.Client\obj\x86\Debug\ScreenViewer.Client.csproj.GenerateResource.cache
+C:\Users\Nochn\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Desktop_new\Desktop_new\ScreenViewer.Client\ScreenViewer.Client\obj\x86\Debug\ScreenViewer.Client.csproj.CoreCompileInputs.cache
+C:\Users\Nochn\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Desktop_new\Desktop_new\ScreenViewer.Client\ScreenViewer.Client\obj\x86\Debug\ScreenViewer.Client.csproj.CopyComplete
+C:\Users\Nochn\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Desktop_new\Desktop_new\ScreenViewer.Client\ScreenViewer.Client\obj\x86\Debug\ScreenViewer.Client.exe
+C:\Users\Nochn\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Desktop_new\Desktop_new\ScreenViewer.Client\ScreenViewer.Client\obj\x86\Debug\ScreenViewer.Client.pdb
+C:\Users\Света\Desktop\Desktop_neww\ScreenViewer.Client\ScreenViewer.Client\bin\Debug\ScreenViewer.Client.exe.config
+C:\Users\Света\Desktop\Desktop_neww\ScreenViewer.Client\ScreenViewer.Client\bin\Debug\ScreenViewer.Client.exe
+C:\Users\Света\Desktop\Desktop_neww\ScreenViewer.Client\ScreenViewer.Client\bin\Debug\ScreenViewer.Client.pdb
+C:\Users\Света\Desktop\Desktop_neww\ScreenViewer.Client\ScreenViewer.Client\bin\Debug\CommonLibrary.dll
+C:\Users\Света\Desktop\Desktop_neww\ScreenViewer.Client\ScreenViewer.Client\bin\Debug\CommonLibrary.pdb
+C:\Users\Света\Desktop\Desktop_neww\ScreenViewer.Client\ScreenViewer.Client\obj\x86\Debug\ScreenViewer.Client.csprojResolveAssemblyReference.cache
+C:\Users\Света\Desktop\Desktop_neww\ScreenViewer.Client\ScreenViewer.Client\obj\x86\Debug\ScreenViewer.Client.Form1.resources
+C:\Users\Света\Desktop\Desktop_neww\ScreenViewer.Client\ScreenViewer.Client\obj\x86\Debug\ScreenViewer.Client.Properties.Resources.resources
+C:\Users\Света\Desktop\Desktop_neww\ScreenViewer.Client\ScreenViewer.Client\obj\x86\Debug\ScreenViewer.Client.csproj.GenerateResource.Cache
+C:\Users\Света\Desktop\Desktop_neww\ScreenViewer.Client\ScreenViewer.Client\obj\x86\Debug\ScreenViewer.Client.csproj.CoreCompileInputs.cache
+C:\Users\Света\Desktop\Desktop_neww\ScreenViewer.Client\ScreenViewer.Client\obj\x86\Debug\ScreenViewer.Client.exe
+C:\Users\Света\Desktop\Desktop_neww\ScreenViewer.Client\ScreenViewer.Client\obj\x86\Debug\ScreenViewer.Client.pdb
+F:\Desktop_neww\ScreenViewer.Client\ScreenViewer.Client\obj\x86\Debug\ScreenViewer.Client.csprojResolveAssemblyReference.cache
+F:\Desktop_neww\ScreenViewer.Client\ScreenViewer.Client\obj\x86\Debug\ScreenViewer.Client.Form1.resources
+F:\Desktop_neww\ScreenViewer.Client\ScreenViewer.Client\obj\x86\Debug\ScreenViewer.Client.Properties.Resources.resources
+F:\Desktop_neww\ScreenViewer.Client\ScreenViewer.Client\obj\x86\Debug\ScreenViewer.Client.csproj.GenerateResource.Cache
+F:\Desktop_neww\ScreenViewer.Client\ScreenViewer.Client\obj\x86\Debug\ScreenViewer.Client.csproj.CoreCompileInputs.cache
+F:\Desktop_neww\ScreenViewer.Client\ScreenViewer.Client\bin\Debug\ScreenViewer.Client.exe.config
+F:\Desktop_neww\ScreenViewer.Client\ScreenViewer.Client\bin\Debug\ScreenViewer.Client.exe
+F:\Desktop_neww\ScreenViewer.Client\ScreenViewer.Client\bin\Debug\ScreenViewer.Client.pdb
+F:\Desktop_neww\ScreenViewer.Client\ScreenViewer.Client\bin\Debug\CommonLibrary.dll
+F:\Desktop_neww\ScreenViewer.Client\ScreenViewer.Client\bin\Debug\CommonLibrary.pdb
+F:\Desktop_neww\ScreenViewer.Client\ScreenViewer.Client\obj\x86\Debug\ScreenViewer.Client.exe
+F:\Desktop_neww\ScreenViewer.Client\ScreenViewer.Client\obj\x86\Debug\ScreenViewer.Client.pdb
+C:\Users\Света\Desktop\Desktop\ScreenViewer.Client\ScreenViewer.Client\bin\Debug\ScreenViewer.Client.exe.config
+C:\Users\Света\Desktop\Desktop\ScreenViewer.Client\ScreenViewer.Client\bin\Debug\ScreenViewer.Client.exe
+C:\Users\Света\Desktop\Desktop\ScreenViewer.Client\ScreenViewer.Client\bin\Debug\ScreenViewer.Client.pdb
+C:\Users\Света\Desktop\Desktop\ScreenViewer.Client\ScreenViewer.Client\bin\Debug\CommonLibrary.dll
+C:\Users\Света\Desktop\Desktop\ScreenViewer.Client\ScreenViewer.Client\bin\Debug\CommonLibrary.pdb
+C:\Users\Света\Desktop\Desktop\ScreenViewer.Client\ScreenViewer.Client\obj\x86\Debug\ScreenViewer.Client.csprojResolveAssemblyReference.cache
+C:\Users\Света\Desktop\Desktop\ScreenViewer.Client\ScreenViewer.Client\obj\x86\Debug\ScreenViewer.Client.Form1.resources
+C:\Users\Света\Desktop\Desktop\ScreenViewer.Client\ScreenViewer.Client\obj\x86\Debug\ScreenViewer.Client.Properties.Resources.resources
+C:\Users\Света\Desktop\Desktop\ScreenViewer.Client\ScreenViewer.Client\obj\x86\Debug\ScreenViewer.Client.csproj.GenerateResource.Cache
+C:\Users\Света\Desktop\Desktop\ScreenViewer.Client\ScreenViewer.Client\obj\x86\Debug\ScreenViewer.Client.csproj.CoreCompileInputs.cache
+C:\Users\Света\Desktop\Desktop\ScreenViewer.Client\ScreenViewer.Client\obj\x86\Debug\ScreenViewer.Client.exe
+C:\Users\Света\Desktop\Desktop\ScreenViewer.Client\ScreenViewer.Client\obj\x86\Debug\ScreenViewer.Client.pdb
+C:\Users\Света\Desktop\Desktop asn\ScreenViewer.Client\ScreenViewer.Client\obj\x86\Debug\ScreenViewer.Client.csprojResolveAssemblyReference.cache
+C:\Users\Света\Desktop\Desktop asn\ScreenViewer.Client\ScreenViewer.Client\obj\x86\Debug\ScreenViewer.Client.Form1.resources
+C:\Users\Света\Desktop\Desktop asn\ScreenViewer.Client\ScreenViewer.Client\obj\x86\Debug\ScreenViewer.Client.Properties.Resources.resources
+C:\Users\Света\Desktop\Desktop asn\ScreenViewer.Client\ScreenViewer.Client\obj\x86\Debug\ScreenViewer.Client.csproj.GenerateResource.Cache
+C:\Users\Света\Desktop\Desktop asn\ScreenViewer.Client\ScreenViewer.Client\obj\x86\Debug\ScreenViewer.Client.csproj.CoreCompileInputs.cache
+C:\Users\Света\Desktop\Desktop asn\ScreenViewer.Client\ScreenViewer.Client\obj\x86\Debug\ScreenViewer.Client.exe
+C:\Users\Света\Desktop\Desktop asn\ScreenViewer.Client\ScreenViewer.Client\obj\x86\Debug\ScreenViewer.Client.pdb
+C:\Users\Света\Desktop\Desktop asn\ScreenViewer.Client\ScreenViewer.Client\bin\Debug\ScreenViewer.Client.exe.config
+C:\Users\Света\Desktop\Desktop asn\ScreenViewer.Client\ScreenViewer.Client\bin\Debug\ScreenViewer.Client.exe
+C:\Users\Света\Desktop\Desktop asn\ScreenViewer.Client\ScreenViewer.Client\bin\Debug\ScreenViewer.Client.pdb
+C:\Users\Света\Desktop\Desktop asn\ScreenViewer.Client\ScreenViewer.Client\bin\Debug\CommonLibrary.dll
+C:\Users\Света\Desktop\Desktop asn\ScreenViewer.Client\ScreenViewer.Client\bin\Debug\CommonLibrary.pdb
+C:\Users\Nochn\Downloads\Desktop async\Desktop async\ScreenViewer.Client\ScreenViewer.Client\bin\Debug\ScreenViewer.Client.exe.config
+C:\Users\Nochn\Downloads\Desktop async\Desktop async\ScreenViewer.Client\ScreenViewer.Client\bin\Debug\ScreenViewer.Client.exe
+C:\Users\Nochn\Downloads\Desktop async\Desktop async\ScreenViewer.Client\ScreenViewer.Client\bin\Debug\ScreenViewer.Client.pdb
+C:\Users\Nochn\Downloads\Desktop async\Desktop async\ScreenViewer.Client\ScreenViewer.Client\bin\Debug\CommonLibrary.dll
+C:\Users\Nochn\Downloads\Desktop async\Desktop async\ScreenViewer.Client\ScreenViewer.Client\bin\Debug\CommonLibrary.pdb
+C:\Users\Nochn\Downloads\Desktop async\Desktop async\ScreenViewer.Client\ScreenViewer.Client\obj\x86\Debug\ScreenViewer.Client.csprojAssemblyReference.cache
+C:\Users\Nochn\Downloads\Desktop async\Desktop async\ScreenViewer.Client\ScreenViewer.Client\obj\x86\Debug\ScreenViewer.Client.Form1.resources
+C:\Users\Nochn\Downloads\Desktop async\Desktop async\ScreenViewer.Client\ScreenViewer.Client\obj\x86\Debug\ScreenViewer.Client.Properties.Resources.resources
+C:\Users\Nochn\Downloads\Desktop async\Desktop async\ScreenViewer.Client\ScreenViewer.Client\obj\x86\Debug\ScreenViewer.Client.csproj.GenerateResource.cache
+C:\Users\Nochn\Downloads\Desktop async\Desktop async\ScreenViewer.Client\ScreenViewer.Client\obj\x86\Debug\ScreenViewer.Client.csproj.CoreCompileInputs.cache
+C:\Users\Nochn\Downloads\Desktop async\Desktop async\ScreenViewer.Client\ScreenViewer.Client\obj\x86\Debug\ScreenViewer.Client.csproj.CopyComplete
+C:\Users\Nochn\Downloads\Desktop async\Desktop async\ScreenViewer.Client\ScreenViewer.Client\obj\x86\Debug\ScreenViewer.Client.exe
+C:\Users\Nochn\Downloads\Desktop async\Desktop async\ScreenViewer.Client\ScreenViewer.Client\obj\x86\Debug\ScreenViewer.Client.pdb
+C:\Users\Сергей\Desktop\Desktop async fix — 2\Desktop async\ScreenViewer.Client\ScreenViewer.Client\bin\Debug\ScreenViewer.Client.exe.config
+C:\Users\Сергей\Desktop\Desktop async fix — 2\Desktop async\ScreenViewer.Client\ScreenViewer.Client\bin\Debug\ScreenViewer.Client.exe
+C:\Users\Сергей\Desktop\Desktop async fix — 2\Desktop async\ScreenViewer.Client\ScreenViewer.Client\bin\Debug\ScreenViewer.Client.pdb
+C:\Users\Сергей\Desktop\Desktop async fix — 2\Desktop async\ScreenViewer.Client\ScreenViewer.Client\bin\Debug\CommonLibrary.dll
+C:\Users\Сергей\Desktop\Desktop async fix — 2\Desktop async\ScreenViewer.Client\ScreenViewer.Client\bin\Debug\CommonLibrary.pdb
+C:\Users\Сергей\Desktop\Desktop async fix — 2\Desktop async\ScreenViewer.Client\ScreenViewer.Client\obj\x86\Debug\ScreenViewer.Client.csprojAssemblyReference.cache
+C:\Users\Сергей\Desktop\Desktop async fix — 2\Desktop async\ScreenViewer.Client\ScreenViewer.Client\obj\x86\Debug\ScreenViewer.Client.Form1.resources
+C:\Users\Сергей\Desktop\Desktop async fix — 2\Desktop async\ScreenViewer.Client\ScreenViewer.Client\obj\x86\Debug\ScreenViewer.Client.Properties.Resources.resources
+C:\Users\Сергей\Desktop\Desktop async fix — 2\Desktop async\ScreenViewer.Client\ScreenViewer.Client\obj\x86\Debug\ScreenViewer.Client.csproj.GenerateResource.cache
+C:\Users\Сергей\Desktop\Desktop async fix — 2\Desktop async\ScreenViewer.Client\ScreenViewer.Client\obj\x86\Debug\ScreenViewer.Client.csproj.CoreCompileInputs.cache
+C:\Users\Сергей\Desktop\Desktop async fix — 2\Desktop async\ScreenViewer.Client\ScreenViewer.Client\obj\x86\Debug\ScreenViewer.Client.csproj.CopyComplete
+C:\Users\Сергей\Desktop\Desktop async fix — 2\Desktop async\ScreenViewer.Client\ScreenViewer.Client\obj\x86\Debug\ScreenViewer.Client.exe
+C:\Users\Сергей\Desktop\Desktop async fix — 2\Desktop async\ScreenViewer.Client\ScreenViewer.Client\obj\x86\Debug\ScreenViewer.Client.pdb
+F:\Desktop async fix — 2\Desktop async\ScreenViewer.Client\ScreenViewer.Client\bin\Debug\ScreenViewer.Client.exe.config
+F:\Desktop async fix — 2\Desktop async\ScreenViewer.Client\ScreenViewer.Client\bin\Debug\ScreenViewer.Client.exe
+F:\Desktop async fix — 2\Desktop async\ScreenViewer.Client\ScreenViewer.Client\bin\Debug\ScreenViewer.Client.pdb
+F:\Desktop async fix — 2\Desktop async\ScreenViewer.Client\ScreenViewer.Client\bin\Debug\CommonLibrary.dll
+F:\Desktop async fix — 2\Desktop async\ScreenViewer.Client\ScreenViewer.Client\bin\Debug\CommonLibrary.pdb
+F:\Desktop async fix — 2\Desktop async\ScreenViewer.Client\ScreenViewer.Client\obj\x86\Debug\ScreenViewer.Client.csprojResolveAssemblyReference.cache
+F:\Desktop async fix — 2\Desktop async\ScreenViewer.Client\ScreenViewer.Client\obj\x86\Debug\ScreenViewer.Client.Form1.resources
+F:\Desktop async fix — 2\Desktop async\ScreenViewer.Client\ScreenViewer.Client\obj\x86\Debug\ScreenViewer.Client.Properties.Resources.resources
+F:\Desktop async fix — 2\Desktop async\ScreenViewer.Client\ScreenViewer.Client\obj\x86\Debug\ScreenViewer.Client.csproj.GenerateResource.Cache
+F:\Desktop async fix — 2\Desktop async\ScreenViewer.Client\ScreenViewer.Client\obj\x86\Debug\ScreenViewer.Client.csproj.CoreCompileInputs.cache
+F:\Desktop async fix — 2\Desktop async\ScreenViewer.Client\ScreenViewer.Client\obj\x86\Debug\ScreenViewer.Client.exe
+F:\Desktop async fix — 2\Desktop async\ScreenViewer.Client\ScreenViewer.Client\obj\x86\Debug\ScreenViewer.Client.pdb
+C:\Users\grishaeva.2015\Desktop\Desktop async fix — 2\Desktop async\ScreenViewer.Client\ScreenViewer.Client\bin\Debug\ScreenViewer.Client.exe.config
+C:\Users\grishaeva.2015\Desktop\Desktop async fix — 2\Desktop async\ScreenViewer.Client\ScreenViewer.Client\bin\Debug\ScreenViewer.Client.exe
+C:\Users\grishaeva.2015\Desktop\Desktop async fix — 2\Desktop async\ScreenViewer.Client\ScreenViewer.Client\bin\Debug\ScreenViewer.Client.pdb
+C:\Users\grishaeva.2015\Desktop\Desktop async fix — 2\Desktop async\ScreenViewer.Client\ScreenViewer.Client\bin\Debug\CommonLibrary.dll
+C:\Users\grishaeva.2015\Desktop\Desktop async fix — 2\Desktop async\ScreenViewer.Client\ScreenViewer.Client\bin\Debug\CommonLibrary.pdb
+C:\Users\grishaeva.2015\Desktop\Desktop async fix — 2\Desktop async\ScreenViewer.Client\ScreenViewer.Client\obj\x86\Debug\ScreenViewer.Client.csprojAssemblyReference.cache
+C:\Users\grishaeva.2015\Desktop\Desktop async fix — 2\Desktop async\ScreenViewer.Client\ScreenViewer.Client\obj\x86\Debug\ScreenViewer.Client.Form1.resources
+C:\Users\grishaeva.2015\Desktop\Desktop async fix — 2\Desktop async\ScreenViewer.Client\ScreenViewer.Client\obj\x86\Debug\ScreenViewer.Client.Properties.Resources.resources
+C:\Users\grishaeva.2015\Desktop\Desktop async fix — 2\Desktop async\ScreenViewer.Client\ScreenViewer.Client\obj\x86\Debug\ScreenViewer.Client.csproj.GenerateResource.cache
+C:\Users\grishaeva.2015\Desktop\Desktop async fix — 2\Desktop async\ScreenViewer.Client\ScreenViewer.Client\obj\x86\Debug\ScreenViewer.Client.csproj.CoreCompileInputs.cache
+C:\Users\grishaeva.2015\Desktop\Desktop async fix — 2\Desktop async\ScreenViewer.Client\ScreenViewer.Client\obj\x86\Debug\ScreenViewer.Client.csproj.CopyComplete
+C:\Users\grishaeva.2015\Desktop\Desktop async fix — 2\Desktop async\ScreenViewer.Client\ScreenViewer.Client\obj\x86\Debug\ScreenViewer.Client.exe
+C:\Users\grishaeva.2015\Desktop\Desktop async fix — 2\Desktop async\ScreenViewer.Client\ScreenViewer.Client\obj\x86\Debug\ScreenViewer.Client.pdb
+F:\Desktop async fix — 2\Desktop async\ScreenViewer.Client\ScreenViewer.Client\obj\x86\Debug\ScreenViewer.Client.Form2.resources
+C:\Users\Света\Desktop\Desktop async fix — 2\Desktop async\ScreenViewer.Client\ScreenViewer.Client\bin\Debug\ScreenViewer.Client.exe.config
+C:\Users\Света\Desktop\Desktop async fix — 2\Desktop async\ScreenViewer.Client\ScreenViewer.Client\bin\Debug\ScreenViewer.Client.exe
+C:\Users\Света\Desktop\Desktop async fix — 2\Desktop async\ScreenViewer.Client\ScreenViewer.Client\bin\Debug\ScreenViewer.Client.pdb
+C:\Users\Света\Desktop\Desktop async fix — 2\Desktop async\ScreenViewer.Client\ScreenViewer.Client\bin\Debug\CommonLibrary.dll
+C:\Users\Света\Desktop\Desktop async fix — 2\Desktop async\ScreenViewer.Client\ScreenViewer.Client\bin\Debug\CommonLibrary.pdb
+C:\Users\Света\Desktop\Desktop async fix — 2\Desktop async\ScreenViewer.Client\ScreenViewer.Client\obj\x86\Debug\ScreenViewer.Client.csprojResolveAssemblyReference.cache
+C:\Users\Света\Desktop\Desktop async fix — 2\Desktop async\ScreenViewer.Client\ScreenViewer.Client\obj\x86\Debug\ScreenViewer.Client.Properties.Resources.resources
+C:\Users\Света\Desktop\Desktop async fix — 2\Desktop async\ScreenViewer.Client\ScreenViewer.Client\obj\x86\Debug\ScreenViewer.Client.csproj.GenerateResource.Cache
+C:\Users\Света\Desktop\Desktop async fix — 2\Desktop async\ScreenViewer.Client\ScreenViewer.Client\obj\x86\Debug\ScreenViewer.Client.csproj.CoreCompileInputs.cache
+C:\Users\Света\Desktop\Desktop async fix — 2\Desktop async\ScreenViewer.Client\ScreenViewer.Client\obj\x86\Debug\ScreenViewer.Client.exe
+C:\Users\Света\Desktop\Desktop async fix — 2\Desktop async\ScreenViewer.Client\ScreenViewer.Client\obj\x86\Debug\ScreenViewer.Client.pdb
+C:\Users\Света\Desktop\Desktop async fix — 2\Desktop async\ScreenViewer.Client\ScreenViewer.Client\obj\x86\Debug\ScreenViewer.Client.Desktop.resources
+C:\Users\Света\Desktop\Desktop async fix — 2\Desktop async\ScreenViewer.Client\ScreenViewer.Client\obj\x86\Debug\ScreenViewer.Client.Shell.resources
+C:\Users\Света\Desktop\Desktop async fix — 2\Desktop async\ScreenViewer.Client\ScreenViewer.Client\obj\x86\Debug\ScreenViewer.Client.SystemInformation.resources
+C:\Users\Света\Desktop\Desktop async fix — 2\Desktop async\ScreenViewer.Client\ScreenViewer.Client\obj\x86\Debug\ScreenViewer.Client.Main.resources
+C:\Users\Света\Desktop\Desktop async fix — 2\Desktop async\ScreenViewer.Client\ScreenViewer.Client\obj\x86\Debug\ScreenViewer.Client.Connection.resources
+C:\Users\Света\Desktop\Desktop async fix — 2\Desktop async\ScreenViewer.Client\ScreenViewer.Client\obj\x86\Debug\ScreenViewer.Client.TaskManager.resources
+C:\Users\Света\Desktop\Desktop async fix — 2\Desktop async\ScreenViewer.Client\ScreenViewer.Client\obj\x86\Debug\ScreenViewer.Client.Messenger.resources
+C:\Users\Света\Desktop\Desktop async fix — 2\Desktop async\ScreenViewer.Client\ScreenViewer.Client\obj\x86\Debug\ScreenViewer.Client.FileManager.resources
+C:\Users\Nochn\Downloads\Desktop async fix — 2\Desktop async fix — 2\Desktop async\ScreenViewer.Client\ScreenViewer.Client\bin\Debug\ScreenViewer.Client.exe.config
+C:\Users\Nochn\Downloads\Desktop async fix — 2\Desktop async fix — 2\Desktop async\ScreenViewer.Client\ScreenViewer.Client\bin\Debug\ScreenViewer.Client.exe
+C:\Users\Nochn\Downloads\Desktop async fix — 2\Desktop async fix — 2\Desktop async\ScreenViewer.Client\ScreenViewer.Client\bin\Debug\ScreenViewer.Client.pdb
+C:\Users\Nochn\Downloads\Desktop async fix — 2\Desktop async fix — 2\Desktop async\ScreenViewer.Client\ScreenViewer.Client\bin\Debug\CommonLibrary.dll
+C:\Users\Nochn\Downloads\Desktop async fix — 2\Desktop async fix — 2\Desktop async\ScreenViewer.Client\ScreenViewer.Client\bin\Debug\CommonLibrary.pdb
+C:\Users\Nochn\Downloads\Desktop async fix — 2\Desktop async fix — 2\Desktop async\ScreenViewer.Client\ScreenViewer.Client\obj\x86\Debug\ScreenViewer.Client.csprojAssemblyReference.cache
+C:\Users\Nochn\Downloads\Desktop async fix — 2\Desktop async fix — 2\Desktop async\ScreenViewer.Client\ScreenViewer.Client\obj\x86\Debug\ScreenViewer.Client.Desktop.resources
+C:\Users\Nochn\Downloads\Desktop async fix — 2\Desktop async fix — 2\Desktop async\ScreenViewer.Client\ScreenViewer.Client\obj\x86\Debug\ScreenViewer.Client.FileManager.resources
+C:\Users\Nochn\Downloads\Desktop async fix — 2\Desktop async fix — 2\Desktop async\ScreenViewer.Client\ScreenViewer.Client\obj\x86\Debug\ScreenViewer.Client.Shell.resources
+C:\Users\Nochn\Downloads\Desktop async fix — 2\Desktop async fix — 2\Desktop async\ScreenViewer.Client\ScreenViewer.Client\obj\x86\Debug\ScreenViewer.Client.SystemInformation.resources
+C:\Users\Nochn\Downloads\Desktop async fix — 2\Desktop async fix — 2\Desktop async\ScreenViewer.Client\ScreenViewer.Client\obj\x86\Debug\ScreenViewer.Client.Main.resources
+C:\Users\Nochn\Downloads\Desktop async fix — 2\Desktop async fix — 2\Desktop async\ScreenViewer.Client\ScreenViewer.Client\obj\x86\Debug\ScreenViewer.Client.Connection.resources
+C:\Users\Nochn\Downloads\Desktop async fix — 2\Desktop async fix — 2\Desktop async\ScreenViewer.Client\ScreenViewer.Client\obj\x86\Debug\ScreenViewer.Client.TaskManager.resources
+C:\Users\Nochn\Downloads\Desktop async fix — 2\Desktop async fix — 2\Desktop async\ScreenViewer.Client\ScreenViewer.Client\obj\x86\Debug\ScreenViewer.Client.Messenger.resources
+C:\Users\Nochn\Downloads\Desktop async fix — 2\Desktop async fix — 2\Desktop async\ScreenViewer.Client\ScreenViewer.Client\obj\x86\Debug\ScreenViewer.Client.Properties.Resources.resources
+C:\Users\Nochn\Downloads\Desktop async fix — 2\Desktop async fix — 2\Desktop async\ScreenViewer.Client\ScreenViewer.Client\obj\x86\Debug\ScreenViewer.Client.csproj.GenerateResource.cache
+C:\Users\Nochn\Downloads\Desktop async fix — 2\Desktop async fix — 2\Desktop async\ScreenViewer.Client\ScreenViewer.Client\obj\x86\Debug\ScreenViewer.Client.csproj.CoreCompileInputs.cache
+C:\Users\Nochn\Downloads\Desktop async fix — 2\Desktop async fix — 2\Desktop async\ScreenViewer.Client\ScreenViewer.Client\obj\x86\Debug\ScreenViewer.Client.csproj.CopyComplete
+C:\Users\Nochn\Downloads\Desktop async fix — 2\Desktop async fix — 2\Desktop async\ScreenViewer.Client\ScreenViewer.Client\obj\x86\Debug\ScreenViewer.Client.exe
+C:\Users\Nochn\Downloads\Desktop async fix — 2\Desktop async fix — 2\Desktop async\ScreenViewer.Client\ScreenViewer.Client\obj\x86\Debug\ScreenViewer.Client.pdb
+C:\Users\Света\Desktop\Desktop async fix - 2\ScreenViewer.Client\ScreenViewer.Client\bin\Debug\ScreenViewer.Client.exe.config
+C:\Users\Света\Desktop\Desktop async fix - 2\ScreenViewer.Client\ScreenViewer.Client\bin\Debug\ScreenViewer.Client.exe
+C:\Users\Света\Desktop\Desktop async fix - 2\ScreenViewer.Client\ScreenViewer.Client\bin\Debug\ScreenViewer.Client.pdb
+C:\Users\Света\Desktop\Desktop async fix - 2\ScreenViewer.Client\ScreenViewer.Client\bin\Debug\CommonLibrary.dll
+C:\Users\Света\Desktop\Desktop async fix - 2\ScreenViewer.Client\ScreenViewer.Client\bin\Debug\CommonLibrary.pdb
+C:\Users\Света\Desktop\Desktop async fix - 2\ScreenViewer.Client\ScreenViewer.Client\obj\x86\Debug\ScreenViewer.Client.csprojResolveAssemblyReference.cache
+C:\Users\Света\Desktop\Desktop async fix - 2\ScreenViewer.Client\ScreenViewer.Client\obj\x86\Debug\ScreenViewer.Client.Desktop.resources
+C:\Users\Света\Desktop\Desktop async fix - 2\ScreenViewer.Client\ScreenViewer.Client\obj\x86\Debug\ScreenViewer.Client.FileManager.resources
+C:\Users\Света\Desktop\Desktop async fix - 2\ScreenViewer.Client\ScreenViewer.Client\obj\x86\Debug\ScreenViewer.Client.Shell.resources
+C:\Users\Света\Desktop\Desktop async fix - 2\ScreenViewer.Client\ScreenViewer.Client\obj\x86\Debug\ScreenViewer.Client.SystemInformation.resources
+C:\Users\Света\Desktop\Desktop async fix - 2\ScreenViewer.Client\ScreenViewer.Client\obj\x86\Debug\ScreenViewer.Client.Main.resources
+C:\Users\Света\Desktop\Desktop async fix - 2\ScreenViewer.Client\ScreenViewer.Client\obj\x86\Debug\ScreenViewer.Client.Connection.resources
+C:\Users\Света\Desktop\Desktop async fix - 2\ScreenViewer.Client\ScreenViewer.Client\obj\x86\Debug\ScreenViewer.Client.TaskManager.resources
+C:\Users\Света\Desktop\Desktop async fix - 2\ScreenViewer.Client\ScreenViewer.Client\obj\x86\Debug\ScreenViewer.Client.Messenger.resources
+C:\Users\Света\Desktop\Desktop async fix - 2\ScreenViewer.Client\ScreenViewer.Client\obj\x86\Debug\ScreenViewer.Client.Properties.Resources.resources
+C:\Users\Света\Desktop\Desktop async fix - 2\ScreenViewer.Client\ScreenViewer.Client\obj\x86\Debug\ScreenViewer.Client.csproj.GenerateResource.Cache
+C:\Users\Света\Desktop\Desktop async fix - 2\ScreenViewer.Client\ScreenViewer.Client\obj\x86\Debug\ScreenViewer.Client.csproj.CoreCompileInputs.cache
+C:\Users\Света\Desktop\Desktop async fix - 2\ScreenViewer.Client\ScreenViewer.Client\obj\x86\Debug\ScreenViewer.Client.exe
+C:\Users\Света\Desktop\Desktop async fix - 2\ScreenViewer.Client\ScreenViewer.Client\obj\x86\Debug\ScreenViewer.Client.pdb

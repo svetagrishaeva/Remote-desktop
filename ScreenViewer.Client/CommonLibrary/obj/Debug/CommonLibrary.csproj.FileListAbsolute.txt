@@ -1,0 +1,68 @@
+C:\Users\Nochn\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Desktop\ScreenViewer.Client\CommonLibrary\bin\Debug\CommonLibrary.dll
+C:\Users\Nochn\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Desktop\ScreenViewer.Client\CommonLibrary\bin\Debug\CommonLibrary.pdb
+C:\Users\Nochn\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Desktop\ScreenViewer.Client\CommonLibrary\obj\Debug\CommonLibrary.csprojAssemblyReference.cache
+C:\Users\Nochn\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Desktop\ScreenViewer.Client\CommonLibrary\obj\Debug\CommonLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Nochn\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Desktop\ScreenViewer.Client\CommonLibrary\obj\Debug\CommonLibrary.dll
+C:\Users\Nochn\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Desktop\ScreenViewer.Client\CommonLibrary\obj\Debug\CommonLibrary.pdb
+C:\Users\Света\Desktop\Desktop_new\ScreenViewer.Client\CommonLibrary\bin\Debug\CommonLibrary.dll
+C:\Users\Света\Desktop\Desktop_new\ScreenViewer.Client\CommonLibrary\bin\Debug\CommonLibrary.pdb
+C:\Users\Света\Desktop\Desktop_new\ScreenViewer.Client\CommonLibrary\obj\Debug\CommonLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Света\Desktop\Desktop_new\ScreenViewer.Client\CommonLibrary\obj\Debug\CommonLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Света\Desktop\Desktop_new\ScreenViewer.Client\CommonLibrary\obj\Debug\CommonLibrary.dll
+C:\Users\Света\Desktop\Desktop_new\ScreenViewer.Client\CommonLibrary\obj\Debug\CommonLibrary.pdb
+C:\Users\Nochn\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Desktop_new\Desktop_new\ScreenViewer.Client\CommonLibrary\bin\Debug\CommonLibrary.dll
+C:\Users\Nochn\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Desktop_new\Desktop_new\ScreenViewer.Client\CommonLibrary\bin\Debug\CommonLibrary.pdb
+C:\Users\Nochn\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Desktop_new\Desktop_new\ScreenViewer.Client\CommonLibrary\obj\Debug\CommonLibrary.csprojAssemblyReference.cache
+C:\Users\Nochn\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Desktop_new\Desktop_new\ScreenViewer.Client\CommonLibrary\obj\Debug\CommonLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Nochn\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Desktop_new\Desktop_new\ScreenViewer.Client\CommonLibrary\obj\Debug\CommonLibrary.dll
+C:\Users\Nochn\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Desktop_new\Desktop_new\ScreenViewer.Client\CommonLibrary\obj\Debug\CommonLibrary.pdb
+C:\Users\Света\Desktop\Desktop_neww\ScreenViewer.Client\CommonLibrary\bin\Debug\CommonLibrary.dll
+C:\Users\Света\Desktop\Desktop_neww\ScreenViewer.Client\CommonLibrary\bin\Debug\CommonLibrary.pdb
+C:\Users\Света\Desktop\Desktop_neww\ScreenViewer.Client\CommonLibrary\obj\Debug\CommonLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Света\Desktop\Desktop_neww\ScreenViewer.Client\CommonLibrary\obj\Debug\CommonLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Света\Desktop\Desktop_neww\ScreenViewer.Client\CommonLibrary\obj\Debug\CommonLibrary.dll
+C:\Users\Света\Desktop\Desktop_neww\ScreenViewer.Client\CommonLibrary\obj\Debug\CommonLibrary.pdb
+F:\Desktop_neww\ScreenViewer.Client\CommonLibrary\bin\Debug\CommonLibrary.dll
+F:\Desktop_neww\ScreenViewer.Client\CommonLibrary\bin\Debug\CommonLibrary.pdb
+F:\Desktop_neww\ScreenViewer.Client\CommonLibrary\obj\Debug\CommonLibrary.csproj.CoreCompileInputs.cache
+F:\Desktop_neww\ScreenViewer.Client\CommonLibrary\obj\Debug\CommonLibrary.dll
+F:\Desktop_neww\ScreenViewer.Client\CommonLibrary\obj\Debug\CommonLibrary.pdb
+F:\Desktop_neww\ScreenViewer.Client\CommonLibrary\obj\Debug\CommonLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Света\Desktop\Desktop\ScreenViewer.Client\CommonLibrary\bin\Debug\CommonLibrary.dll
+C:\Users\Света\Desktop\Desktop\ScreenViewer.Client\CommonLibrary\bin\Debug\CommonLibrary.pdb
+C:\Users\Света\Desktop\Desktop\ScreenViewer.Client\CommonLibrary\obj\Debug\CommonLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Света\Desktop\Desktop\ScreenViewer.Client\CommonLibrary\obj\Debug\CommonLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Света\Desktop\Desktop\ScreenViewer.Client\CommonLibrary\obj\Debug\CommonLibrary.dll
+C:\Users\Света\Desktop\Desktop\ScreenViewer.Client\CommonLibrary\obj\Debug\CommonLibrary.pdb
+C:\Users\Nochn\Downloads\Desktop async\Desktop async\ScreenViewer.Client\CommonLibrary\bin\Debug\CommonLibrary.dll
+C:\Users\Nochn\Downloads\Desktop async\Desktop async\ScreenViewer.Client\CommonLibrary\bin\Debug\CommonLibrary.pdb
+C:\Users\Nochn\Downloads\Desktop async\Desktop async\ScreenViewer.Client\CommonLibrary\obj\Debug\CommonLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Nochn\Downloads\Desktop async\Desktop async\ScreenViewer.Client\CommonLibrary\obj\Debug\CommonLibrary.dll
+C:\Users\Nochn\Downloads\Desktop async\Desktop async\ScreenViewer.Client\CommonLibrary\obj\Debug\CommonLibrary.pdb
+C:\Users\Сергей\Desktop\Desktop async fix — 2\Desktop async\ScreenViewer.Client\CommonLibrary\bin\Debug\CommonLibrary.dll
+C:\Users\Сергей\Desktop\Desktop async fix — 2\Desktop async\ScreenViewer.Client\CommonLibrary\bin\Debug\CommonLibrary.pdb
+C:\Users\Сергей\Desktop\Desktop async fix — 2\Desktop async\ScreenViewer.Client\CommonLibrary\obj\Debug\CommonLibrary.csprojAssemblyReference.cache
+C:\Users\Сергей\Desktop\Desktop async fix — 2\Desktop async\ScreenViewer.Client\CommonLibrary\obj\Debug\CommonLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Сергей\Desktop\Desktop async fix — 2\Desktop async\ScreenViewer.Client\CommonLibrary\obj\Debug\CommonLibrary.dll
+C:\Users\Сергей\Desktop\Desktop async fix — 2\Desktop async\ScreenViewer.Client\CommonLibrary\obj\Debug\CommonLibrary.pdb
+C:\Users\grishaeva.2015\Desktop\Desktop async fix — 2\Desktop async\ScreenViewer.Client\CommonLibrary\bin\Debug\CommonLibrary.dll
+C:\Users\grishaeva.2015\Desktop\Desktop async fix — 2\Desktop async\ScreenViewer.Client\CommonLibrary\bin\Debug\CommonLibrary.pdb
+C:\Users\grishaeva.2015\Desktop\Desktop async fix — 2\Desktop async\ScreenViewer.Client\CommonLibrary\obj\Debug\CommonLibrary.csprojAssemblyReference.cache
+C:\Users\grishaeva.2015\Desktop\Desktop async fix — 2\Desktop async\ScreenViewer.Client\CommonLibrary\obj\Debug\CommonLibrary.csproj.CoreCompileInputs.cache
+C:\Users\grishaeva.2015\Desktop\Desktop async fix — 2\Desktop async\ScreenViewer.Client\CommonLibrary\obj\Debug\CommonLibrary.dll
+C:\Users\grishaeva.2015\Desktop\Desktop async fix — 2\Desktop async\ScreenViewer.Client\CommonLibrary\obj\Debug\CommonLibrary.pdb
+C:\Users\Света\Desktop\Desktop async fix — 2\Desktop async\ScreenViewer.Client\CommonLibrary\bin\Debug\CommonLibrary.dll
+C:\Users\Света\Desktop\Desktop async fix — 2\Desktop async\ScreenViewer.Client\CommonLibrary\bin\Debug\CommonLibrary.pdb
+C:\Users\Света\Desktop\Desktop async fix — 2\Desktop async\ScreenViewer.Client\CommonLibrary\obj\Debug\CommonLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Света\Desktop\Desktop async fix — 2\Desktop async\ScreenViewer.Client\CommonLibrary\obj\Debug\CommonLibrary.dll
+C:\Users\Света\Desktop\Desktop async fix — 2\Desktop async\ScreenViewer.Client\CommonLibrary\obj\Debug\CommonLibrary.pdb
+C:\Users\Nochn\Downloads\Desktop async fix — 2\Desktop async fix — 2\Desktop async\ScreenViewer.Client\CommonLibrary\bin\Debug\CommonLibrary.dll
+C:\Users\Nochn\Downloads\Desktop async fix — 2\Desktop async fix — 2\Desktop async\ScreenViewer.Client\CommonLibrary\bin\Debug\CommonLibrary.pdb
+C:\Users\Nochn\Downloads\Desktop async fix — 2\Desktop async fix — 2\Desktop async\ScreenViewer.Client\CommonLibrary\obj\Debug\CommonLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Nochn\Downloads\Desktop async fix — 2\Desktop async fix — 2\Desktop async\ScreenViewer.Client\CommonLibrary\obj\Debug\CommonLibrary.dll
+C:\Users\Nochn\Downloads\Desktop async fix — 2\Desktop async fix — 2\Desktop async\ScreenViewer.Client\CommonLibrary\obj\Debug\CommonLibrary.pdb
+C:\Users\Света\Desktop\Desktop async fix - 2\ScreenViewer.Client\CommonLibrary\bin\Debug\CommonLibrary.dll
+C:\Users\Света\Desktop\Desktop async fix - 2\ScreenViewer.Client\CommonLibrary\bin\Debug\CommonLibrary.pdb
+C:\Users\Света\Desktop\Desktop async fix - 2\ScreenViewer.Client\CommonLibrary\obj\Debug\CommonLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Света\Desktop\Desktop async fix - 2\ScreenViewer.Client\CommonLibrary\obj\Debug\CommonLibrary.dll
+C:\Users\Света\Desktop\Desktop async fix - 2\ScreenViewer.Client\CommonLibrary\obj\Debug\CommonLibrary.pdb
